@@ -1,6 +1,15 @@
-# flutter_razorpay
+![Razorpay Integration with Flutter theindianappguy](https://user-images.githubusercontent.com/55942632/83010112-6667a200-a035-11ea-8aea-8ed622a28f5d.png)
 
-Adding Payments in Flutter Application.
+# How to Integrate Flutter Payments with Razorpay Payment Gateway
+
+Learn how to integrate payment gateway with Razorpay in less than 15 minutes, other time in this video is spent in explaining and building User Interface.
+
+Video Tutorial : https://youtu.be/7xcYSTH6Kx8
+
+Razorpay Pub : https://pub.dev/packages/razorpay_flutter
+
+Console : https://dashboard.razorpay.com/
+
 
 ## Getting Started
 
